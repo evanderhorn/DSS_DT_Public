@@ -8,7 +8,7 @@ Digital Twin is one of the promising digital technologies being developed at pre
 
 * An overview of some of the varied lexicon found in the literature is provided, based on 65 different definitions found in the literature. 
 * In addition to providing a concise statement of what a Digital Twin is, most of the definitions provided also include descriptions of selected specific attributes of the Digital Twin, including: representation fidelity, data collection/exchange, synchronization frequency, and model/simulation capabilities. 
-* After reviewing the breadth of definitions in the literature, a consolidated and generalized definition for a Digital Twin is proposed here as “a virtual representation of a physical system (and its associated environment and processes) that is updated through the exchange of information between the physical and virtual systems.” 
+* After reviewing the breadth of definitions in the literature, a consolidated and generalized definition for a Digital Twin is proposed here as *“a virtual representation of a physical system (and its associated environment and processes) that is updated through the exchange of information between the physical and virtual systems.”*  
 * This definition is general enough to embody the provided definitions, yet restricts itself to only the essential elements while avoiding use case-specific Digital Twin characteristics or terminology.
 
 ## Acknowledgments
